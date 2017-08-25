@@ -1,1 +1,3 @@
 # myssh
+
+test in class
